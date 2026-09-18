@@ -219,4 +219,4 @@ VintaSoftImaging.NET is provided as a full free version with all features and up
 Unlock the full potential of your .NET applications with VintaSoftImaging.NET! Download now and take your image processing capabilities to the next level!
 
 ---
-**Last updated:** 2026-09-17 22:38:24 UTC
+**Last updated:** 2026-09-18 00:59:38 UTC
